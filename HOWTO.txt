@@ -1,0 +1,7 @@
+Open and build Central with PLATFORMIO.
+Open and build Peripheral with PLATFORMIO.
+
+Open renode and type
+s @"YOUR PROJECT PATCH"\ble.resc
+
+In case of error, check location of builded firmwares.
